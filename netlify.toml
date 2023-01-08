@@ -5,3 +5,6 @@ publish = "dist"
 [dev]
 command = "yarn start"
 publish = "dist"
+
+# [functions]
+#   external_node_modules = ["astro"]
